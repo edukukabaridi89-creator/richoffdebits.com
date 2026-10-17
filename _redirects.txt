@@ -1,0 +1,2 @@
+# Rewrite clean URLs to .html files automatically
+/*  /:splat.html  200
